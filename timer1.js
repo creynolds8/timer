@@ -6,4 +6,4 @@ for (let i = 0; i < args.length; i++) {
       process.stdout.write('# \n');
     }, args[i] * 1000);
   }
-};
+}
